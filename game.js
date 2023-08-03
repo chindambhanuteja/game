@@ -1,5 +1,5 @@
 
-var buttonColours = ["white", "black", "green", "yellow"];
+var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
 var userClickedPattern = [];
@@ -82,7 +82,7 @@ function animatePress(currentColor) {
 
 function startOver() {
 
-  level = 50;
+  level = 500;
   gamePattern = [];
   started = false;
 }
