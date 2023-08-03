@@ -82,7 +82,7 @@ function animatePress(currentColor) {
 
 function startOver() {
 
-  level = 5;
+  level = 50;
   gamePattern = [];
   started = false;
 }
