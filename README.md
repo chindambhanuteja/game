@@ -19,5 +19,5 @@ step6-their will be a option branch( those the main option)
 
 step7- top of the page you will see the your link
 
-step8-copy the link, now go to the home and paste it in place first link
+step8-copy the link, now go to the home and paste it in place first link.
 
